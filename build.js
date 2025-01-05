@@ -9,8 +9,8 @@ async function build() {
     const submissions = traverse('/users/kevinhuang/downloads/submissions');
 
     for (const e of problems.problemsetQuestionList) {
+        if (!submissions[e.titleSlug]) continue;
         const cur = submissions[e.titleSlug];
-        if (!cur) continue;
         const classRuntime = cur.timestamp < 1730437200 ? ' class="stale"' : '';
         const classMemory = cur.timestamp < 1706767200 ? ' class="stale"' : '';
 

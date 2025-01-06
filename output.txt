@@ -1,7 +1,7 @@
 <tr>
     <td class="easy">1</td>
     <td><a href="/problems/two-sum/">Two Sum</a></td>
-    <td class="stale"><a href="/submissions/detail/1438981217/">0</a></td>
+    <td><a href="/submissions/detail/1497207461/">0</a></td>
     <td><a href="/submissions/detail/1038007934/">43.4</a></td>
     <td>JavaScript</td>
 </tr>
@@ -57,8 +57,8 @@
 <tr>
     <td class="easy">9</td>
     <td><a href="/problems/palindrome-number/">Palindrome Number</a></td>
-    <td class="stale"><a href="/submissions/detail/1128508659/">127</a></td>
-    <td class="stale"><a href="/submissions/detail/1128508659/">50.7</a></td>
+    <td><a href="/submissions/detail/1497208009/">6</a></td>
+    <td><a href="/submissions/detail/1128508659/">50.7</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@
 <tr>
     <td class="easy">13</td>
     <td><a href="/problems/roman-to-integer/">Roman to Integer</a></td>
-    <td class="stale"><a href="/submissions/detail/1016216572/">99</a></td>
+    <td><a href="/submissions/detail/1497208205/">4</a></td>
     <td><a href="/submissions/detail/1342390567/">54.4</a></td>
     <td>JavaScript</td>
 </tr>
@@ -190,8 +190,8 @@
 <tr>
     <td class="easy">28</td>
     <td><a href="/problems/find-the-index-of-the-first-occurrence-in-a-string/">Find the Index of the First Occurrence in a String</a></td>
-    <td class="stale"><a href="/submissions/detail/1017191102/">37</a></td>
-    <td class="stale"><a href="/submissions/detail/1017191102/">40.9</a></td>
+    <td><a href="/submissions/detail/1497208718/">0</a></td>
+    <td><a href="/submissions/detail/1017191102/">40.9</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -225,8 +225,8 @@
 <tr>
     <td class="easy">35</td>
     <td><a href="/problems/search-insert-position/">Search Insert Position</a></td>
-    <td class="stale"><a href="/submissions/detail/1017188960/">37</a></td>
-    <td class="stale"><a href="/submissions/detail/1017194739/">41.2</a></td>
+    <td><a href="/submissions/detail/1497208810/">0</a></td>
+    <td><a href="/submissions/detail/1128509760/">41.9</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -1786,7 +1786,7 @@
 <tr>
     <td class="hard">273</td>
     <td><a href="/problems/integer-to-english-words/">Integer to English Words</a></td>
-    <td class="stale"><a href="/submissions/detail/1337816899/">41</a></td>
+    <td class="stale"><a href="/submissions/detail/1499034207/">0</a></td>
     <td><a href="/submissions/detail/1337825563/">49.7</a></td>
     <td>JavaScript</td>
 </tr>
@@ -1982,7 +1982,7 @@
 <tr>
     <td class="hard">305</td>
     <td><a href="/problems/number-of-islands-ii/">Number of Islands II</a></td>
-    <td class="stale"><a href="/submissions/detail/1375908726/">72</a></td>
+    <td><a href="/submissions/detail/1499032272/">9</a></td>
     <td><a href="/submissions/detail/1375907179/">56.8</a></td>
     <td>JavaScript</td>
 </tr>
@@ -2052,7 +2052,7 @@
 <tr>
     <td class="hard">317</td>
     <td><a href="/problems/shortest-distance-from-all-buildings/">Shortest Distance from All Buildings</a></td>
-    <td class="stale"><a href="/submissions/detail/1396443525/">165</a></td>
+    <td><a href="/submissions/detail/1499035719/">95</a></td>
     <td><a href="/submissions/detail/1396443525/">56.5</a></td>
     <td>JavaScript</td>
 </tr>
@@ -2129,7 +2129,7 @@
 <tr>
     <td class="hard">330</td>
     <td><a href="/problems/patching-array/">Patching Array</a></td>
-    <td class="stale"><a href="/submissions/detail/1263076583/">41</a></td>
+    <td><a href="/submissions/detail/1499033589/">0</a></td>
     <td><a href="/submissions/detail/1263076131/">48.3</a></td>
     <td>JavaScript</td>
 </tr>
@@ -4383,7 +4383,7 @@
 <tr>
     <td class="hard">711</td>
     <td><a href="/problems/number-of-distinct-islands-ii/">Number of Distinct Islands II</a></td>
-    <td class="stale"><a href="/submissions/detail/1421829267/">108</a></td>
+    <td class="stale"><a href="/submissions/detail/1499043649/">94</a></td>
     <td><a href="/submissions/detail/1421879460/">58.1</a></td>
     <td>JavaScript</td>
 </tr>
@@ -4649,8 +4649,8 @@
 <tr>
     <td class="hard">759</td>
     <td><a href="/problems/employee-free-time/">Employee Free Time</a></td>
-    <td class="stale"><a href="/submissions/detail/1396867992/">68</a></td>
-    <td><a href="/submissions/detail/1396864229/">55.4</a></td>
+    <td><a href="/submissions/detail/1499038794/">66</a></td>
+    <td><a href="/submissions/detail/1499038759/">55.3</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -4712,14 +4712,14 @@
 <tr>
     <td class="hard">772</td>
     <td><a href="/problems/basic-calculator-iii/">Basic Calculator III</a></td>
-    <td class="stale"><a href="/submissions/detail/1069939381/">53</a></td>
-    <td class="stale"><a href="/submissions/detail/1069952767/">44.7</a></td>
+    <td><a href="/submissions/detail/1499040719/">4</a></td>
+    <td><a href="/submissions/detail/1069952767/">44.7</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
     <td class="hard">773</td>
     <td><a href="/problems/sliding-puzzle/">Sliding Puzzle</a></td>
-    <td class="stale"><a href="/submissions/detail/1191107037/">50</a></td>
+    <td><a href="/submissions/detail/1499042413/">9</a></td>
     <td><a href="/submissions/detail/1191107037/">51.2</a></td>
     <td>JavaScript</td>
 </tr>
@@ -5195,8 +5195,8 @@
 <tr>
     <td class="hard">864</td>
     <td><a href="/problems/shortest-path-to-get-all-keys/">Shortest Path to Get All Keys</a></td>
-    <td class="stale"><a href="/submissions/detail/1191977799/">154</a></td>
-    <td><a href="/submissions/detail/1416699805/">65.8</a></td>
+    <td><a href="/submissions/detail/1499150486/">77</a></td>
+    <td><a href="/submissions/detail/1499142839/">65.2</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -5825,8 +5825,8 @@
 <tr>
     <td class="hard">980</td>
     <td><a href="/problems/unique-paths-iii/">Unique Paths III</a></td>
-    <td class="stale"><a href="/submissions/detail/1128469699/">50</a></td>
-    <td class="stale"><a href="/submissions/detail/1128469520/">41.7</a></td>
+    <td><a href="/submissions/detail/1499038247/">2</a></td>
+    <td><a href="/submissions/detail/1128469594/">42.3</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -6329,7 +6329,7 @@
 <tr>
     <td class="hard">1063</td>
     <td><a href="/problems/number-of-valid-subarrays/">Number of Valid Subarrays</a></td>
-    <td class="stale"><a href="/submissions/detail/1342315573/">63</a></td>
+    <td><a href="/submissions/detail/1499048163/">6</a></td>
     <td><a href="/submissions/detail/1342315450/">53.4</a></td>
     <td>JavaScript</td>
 </tr>
@@ -7190,7 +7190,7 @@
 <tr>
     <td class="hard">1210</td>
     <td><a href="/problems/minimum-moves-to-reach-target-with-rotations/">Minimum Moves to Reach Target with Rotations</a></td>
-    <td class="stale"><a href="/submissions/detail/1191135017/">95</a></td>
+    <td class="stale"><a href="/submissions/detail/1499136060/">89</a></td>
     <td><a href="/submissions/detail/1416702949/">59.9</a></td>
     <td>JavaScript</td>
 </tr>
@@ -7435,7 +7435,7 @@
 <tr>
     <td class="hard">1255</td>
     <td><a href="/problems/maximum-score-words-formed-by-letters/">Maximum Score Words Formed by Letters</a></td>
-    <td class="stale"><a href="/submissions/detail/1339458322/">58</a></td>
+    <td><a href="/submissions/detail/1499126793/">15</a></td>
     <td><a href="/submissions/detail/1339457313/">49.5</a></td>
     <td>JavaScript</td>
 </tr>
@@ -7603,7 +7603,7 @@
 <tr>
     <td class="hard">1284</td>
     <td><a href="/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/">Minimum Number of Flips to Convert Binary Matrix to Zero Matrix</a></td>
-    <td class="stale"><a href="/submissions/detail/1416702512/">63</a></td>
+    <td><a href="/submissions/detail/1499134034/">21</a></td>
     <td><a href="/submissions/detail/1416702042/">53.3</a></td>
     <td>JavaScript</td>
 </tr>
@@ -7666,7 +7666,7 @@
 <tr>
     <td class="hard">1293</td>
     <td><a href="/problems/shortest-path-in-a-grid-with-obstacles-elimination/">Shortest Path in a Grid with Obstacles Elimination</a></td>
-    <td class="stale"><a href="/submissions/detail/1191297050/">59</a></td>
+    <td><a href="/submissions/detail/1499110739/">11</a></td>
     <td><a href="/submissions/detail/1191297050/">55.5</a></td>
     <td>JavaScript</td>
 </tr>
@@ -8289,7 +8289,7 @@
 <tr>
     <td class="hard">1402</td>
     <td><a href="/problems/reducing-dishes/">Reducing Dishes</a></td>
-    <td class="stale"><a href="/submissions/detail/1202373685/">52</a></td>
+    <td><a href="/submissions/detail/1499048518/">2</a></td>
     <td><a href="/submissions/detail/1202373685/">48.9</a></td>
     <td>JavaScript</td>
 </tr>
@@ -9276,8 +9276,8 @@
 <tr>
     <td class="hard">1579</td>
     <td><a href="/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/">Remove Max Number of Edges to Keep Graph Fully Traversable</a></td>
-    <td class="stale"><a href="/submissions/detail/1130049690/">153</a></td>
-    <td><a href="/submissions/detail/1380881627/">77.4</a></td>
+    <td><a href="/submissions/detail/1499128037/">25</a></td>
+    <td><a href="/submissions/detail/1499130450/">75.4</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -11250,7 +11250,7 @@
 <tr>
     <td class="hard">1944</td>
     <td><a href="/problems/number-of-visible-people-in-a-queue/">Number of Visible People in a Queue</a></td>
-    <td class="stale"><a href="/submissions/detail/1376046270/">158</a></td>
+    <td><a href="/submissions/detail/1499048860/">11</a></td>
     <td><a href="/submissions/detail/1376046010/">65.3</a></td>
     <td>JavaScript</td>
 </tr>
@@ -11390,8 +11390,8 @@
 <tr>
     <td class="hard">1970</td>
     <td><a href="/problems/last-day-where-you-can-still-cross/">Last Day Where You Can Still Cross</a></td>
-    <td class="stale"><a href="/submissions/detail/1337130670/">171</a></td>
-    <td><a href="/submissions/detail/1337130670/">69.1</a></td>
+    <td><a href="/submissions/detail/1499109825/">59</a></td>
+    <td><a href="/submissions/detail/1499109825/">68.3</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -11950,8 +11950,8 @@
 <tr>
     <td class="hard">2076</td>
     <td><a href="/problems/process-restricted-friend-requests/">Process Restricted Friend Requests</a></td>
-    <td class="stale"><a href="/submissions/detail/1130089407/">146</a></td>
-    <td><a href="/submissions/detail/1416709476/">53.9</a></td>
+    <td><a href="/submissions/detail/1499122075/">111</a></td>
+    <td><a href="/submissions/detail/1380862182/">52.3</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -12622,7 +12622,7 @@
 <tr>
     <td class="hard">2204</td>
     <td><a href="/problems/distance-to-a-cycle-in-undirected-graph/">Distance to a Cycle in Undirected Graph</a></td>
-    <td class="stale"><a href="/submissions/detail/1397838686/">225</a></td>
+    <td><a href="/submissions/detail/1499116078/">106</a></td>
     <td><a href="/submissions/detail/1397846119/">102.6</a></td>
     <td>JavaScript</td>
 </tr>
@@ -13140,7 +13140,7 @@
 <tr>
     <td class="medium">2304</td>
     <td><a href="/problems/minimum-path-cost-in-a-grid/">Minimum Path Cost in a Grid</a></td>
-    <td class="stale"><a href="/submissions/detail/1412075221/">98</a></td>
+    <td><a href="/submissions/detail/1499071173/">10</a></td>
     <td><a href="/submissions/detail/1412075148/">60.8</a></td>
     <td>JavaScript</td>
 </tr>
@@ -14925,8 +14925,8 @@
 <tr>
     <td class="hard">2642</td>
     <td><a href="/problems/design-graph-with-shortest-path-calculator/">Design Graph With Shortest Path Calculator</a></td>
-    <td class="stale"><a href="/submissions/detail/1260937708/">173</a></td>
-    <td><a href="/submissions/detail/1130127431/">61.5</a></td>
+    <td class="stale"><a href="/submissions/detail/1499119913/">86</a></td>
+    <td><a href="/submissions/detail/1260937708/">61.7</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>
@@ -16486,7 +16486,7 @@
 <tr>
     <td class="hard">2921</td>
     <td><a href="/problems/maximum-profitable-triplets-with-increasing-prices-ii/">Maximum Profitable Triplets With Increasing Prices II</a></td>
-    <td class="stale"><a href="/submissions/detail/1379819080/">136</a></td>
+    <td><a href="/submissions/detail/1499046703/">30</a></td>
     <td><a href="/submissions/detail/1379817920/">68.7</a></td>
     <td>JavaScript</td>
 </tr>
@@ -18068,8 +18068,8 @@
 <tr>
     <td class="hard">3219</td>
     <td><a href="/problems/minimum-cost-for-cutting-cake-ii/">Minimum Cost for Cutting Cake II</a></td>
-    <td class="stale"><a href="/submissions/detail/1320708789/">460</a></td>
-    <td><a href="/submissions/detail/1322226837/">78.9</a></td>
+    <td><a href="/submissions/detail/1499045268/">374</a></td>
+    <td><a href="/submissions/detail/1499045268/">77.9</a></td>
     <td>JavaScript</td>
 </tr>
 <tr>

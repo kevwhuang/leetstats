@@ -11,8 +11,8 @@ async function build() {
     for (const e of problems.problemsetQuestionList) {
         if (!submissions[e.titleSlug]) continue;
         const cur = submissions[e.titleSlug];
-        const classRuntime = cur.timestamp < 1730437200 ? ' class="stale"' : '';
-        const classMemory = cur.timestamp < 1706767200 ? ' class="stale"' : '';
+        const classRuntime = cur.timestamp_runtime < 1730437200 ? ' class="stale"' : '';
+        const classMemory = cur.timestamp_memory < 1706767200 ? ' class="stale"' : '';
 
         const ele = [
             '<tr>',
@@ -52,25 +52,26 @@ function traverse(prev, set, res = {}) {
             language: lang_name,
             url_runtime: null,
             url_memory: null,
-            timestamp: 0,
+            timestamp_runtime: 0,
+            timestamp_memory: 0,
         };
 
         const obj = res[title_slug];
 
         if (runtime < obj.runtime) {
-            obj.runtime = runtime, obj.url_runtime = url, obj.timestamp = timestamp;
-        } else if (runtime === obj.runtime && timestamp > obj.timestamp) {
-            obj.url_runtime = url, obj.timestamp = timestamp;
+            obj.runtime = runtime, obj.url_runtime = url, obj.timestamp_runtime = timestamp;
+        } else if (runtime === obj.runtime && timestamp > obj.timestamp_runtime) {
+            obj.url_runtime = url, obj.timestamp_runtime = timestamp;
         }
 
-        if (timestamp > 1706767200 && obj.timestamp < 1706767200) {
-            obj.memory = memory, obj.url_memory = url, obj.timestamp = timestamp;
-        } else if (memory < obj.memory && timestamp > 1706767200 && obj.timestamp > 1706767200) {
-            obj.memory = memory, obj.url_memory = url, obj.timestamp = timestamp;
-        } else if (memory < obj.memory && timestamp < 1706767200 && obj.timestamp < 1706767200) {
-            obj.memory = memory, obj.url_memory = url, obj.timestamp = timestamp;
-        } else if (memory === obj.memory && timestamp > obj.timestamp) {
-            obj.url_memory = url, obj.timestamp = timestamp;
+        if (timestamp > 1706767200 && obj.timestamp_memory < 1706767200) {
+            obj.memory = memory, obj.url_memory = url, obj.timestamp_memory = timestamp;
+        } else if (memory < obj.memory && timestamp > 1706767200 && obj.timestamp_memory > 1706767200) {
+            obj.memory = memory, obj.url_memory = url, obj.timestamp_memory = timestamp;
+        } else if (memory < obj.memory && timestamp < 1706767200 && obj.timestamp_memory < 1706767200) {
+            obj.memory = memory, obj.url_memory = url, obj.timestamp_memory = timestamp;
+        } else if (memory === obj.memory && timestamp > obj.timestamp_memory) {
+            obj.url_memory = url, obj.timestamp_memory = timestamp;
         }
     }
 

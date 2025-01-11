@@ -1,12 +1,12 @@
 import fs from 'fs';
 import path from 'path';
+import problems from './problems.json';
 
-fs.writeFileSync('output.txt', await build());
+fs.writeFileSync('output.txt', build());
 
-async function build() {
+function build() {
     const res = [];
-    const problems = await import('./problems.json');
-    const submissions = traverse('/users/kevinhuang/downloads/submissions');
+    const submissions = dfs('/users/kevinhuang/downloads/submissions');
 
     for (const e of problems.problemsetQuestionList) {
         if (!submissions[e.titleSlug]) continue;
@@ -30,18 +30,19 @@ async function build() {
     return res.join`\n`;
 }
 
-function traverse(prev, set, res = {}) {
+function dfs(prev, set, res = {}) {
     set ??= new Set(['JavaScript', 'MySQL', 'Pandas', 'Java', 'Bash']);
 
     for (const e of fs.readdirSync(prev)) {
         const cur = path.join(prev, e);
         const flag = fs.statSync(cur).isDirectory();
-        if (flag) traverse(cur, set, res);
+        if (flag) dfs(cur, set, res);
         if (flag || e !== 'info.txt') continue;
 
         const data = JSON.parse(fs.readFileSync(cur));
         if (data.status_display !== 'Accepted') continue;
         if (!set.has(data.lang_name)) continue;
+
         const { title_slug, lang_name, url, timestamp } = data;
         const runtime = parseInt(data.runtime);
         const memory = parseFloat(data.memory);

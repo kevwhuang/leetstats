@@ -6,10 +6,10 @@ a {
     cursor: pointer;
     display: inline;
     text-decoration: none;
-}
 
-a:visited {
-    color: black;
+    &:visited {
+        color: black;
+    }
 }
 
 abbr {
@@ -37,10 +37,10 @@ audio {
     display: block;
     height: auto;
     width: auto;
-}
 
-audio:not([controls]) {
-    display: none !important;
+    &:not([controls]) {
+        display: none !important;
+    }
 }
 
 b {
@@ -148,14 +148,14 @@ del {
 
 details {
     display: block;
-}
 
-details>summary {
-    list-style: disclosure-closed inside;
-}
+    &>summary {
+        list-style: disclosure-closed inside;
+    }
 
-details[open]>summary {
-    list-style: disclosure-open inside;
+    &[open]>summary {
+        list-style: disclosure-open inside;
+    }
 }
 
 dfn {
@@ -321,10 +321,11 @@ iframe {
 }
 
 img {
-    display: inline-block;
+    display: block;
     max-width: 100%;
     overflow: initial;
     overflow-clip-margin: initial;
+    user-select: none;
 }
 
 input {
@@ -373,15 +374,15 @@ legend {
 li {
     display: list-item;
     text-align: initial;
-}
 
-li::marker {
-    font-variant-numeric: initial;
-    text-align: initial !important;
-    text-align-last: initial !important;
-    text-indent: 0 !important;
-    text-transform: none;
-    unicode-bidi: initial;
+    &::marker {
+        font-variant-numeric: initial;
+        text-align: initial !important;
+        text-align-last: initial !important;
+        text-indent: 0 !important;
+        text-transform: none;
+        unicode-bidi: initial;
+    }
 }
 
 link {
@@ -496,14 +497,14 @@ progress {
 
 q {
     display: inline;
-}
 
-q::after {
-    content: none;
-}
+    &::after {
+        content: none;
+    }
 
-q::before {
-    content: none;
+    &::before {
+        content: none;
+    }
 }
 
 rp {
@@ -564,10 +565,10 @@ select {
     white-space: initial;
     word-spacing: normal;
     writing-mode: initial;
-}
 
-select:not(:-internal-list-box) {
-    overflow: initial !important;
+    &:not(:-internal-list-box) {
+        overflow: initial !important;
+    }
 }
 
 slot {
@@ -606,21 +607,31 @@ summary {
     counter-increment: none;
     cursor: pointer;
     display: list-item;
-}
 
-summary::marker {
-    font-variant-numeric: initial;
-    text-align: initial !important;
-    text-align-last: initial !important;
-    text-indent: 0 !important;
-    text-transform: none;
-    unicode-bidi: initial;
+    &::marker {
+        font-variant-numeric: initial;
+        text-align: initial !important;
+        text-align-last: initial !important;
+        text-indent: 0 !important;
+        text-transform: none;
+        unicode-bidi: initial;
+    }
 }
 
 sup {
     display: inline;
     font-size: 1rem;
     vertical-align: 0;
+}
+
+svg {
+    path {
+        fill: currentColor;
+
+        &:hover {
+            fill: currentColor;
+        }
+    }
 }
 
 table {

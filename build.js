@@ -22,6 +22,7 @@ function build() {
             `    <td${classMemory}><a href="${cur.url_memory}">${cur.memory}</a></td>`,
             `    <td>${cur.language}</td>`,
             '</tr>',
+            '',
         ];
 
         res.push(ele.join`\n`);
@@ -30,9 +31,7 @@ function build() {
     return res.join`\n`;
 }
 
-function dfs(prev, set, res = {}) {
-    set ??= new Set(['JavaScript', 'MySQL', 'Pandas', 'Java', 'Bash']);
-
+function dfs(prev, set = new Set(['JavaScript', 'MySQL', 'Pandas', 'Java', 'Bash']), res = {}) {
     for (const e of fs.readdirSync(prev)) {
         const cur = path.join(prev, e);
         const flag = fs.statSync(cur).isDirectory();
@@ -43,21 +42,21 @@ function dfs(prev, set, res = {}) {
         if (data.status_display !== 'Accepted') continue;
         if (!set.has(data.lang_name)) continue;
 
-        const { title_slug, lang_name, url, timestamp } = data;
-        const runtime = parseInt(data.runtime);
+        const { title_slug: titleSlug, lang_name: langName, url, timestamp } = data;
+        const runtime = parseInt(data.runtime, 10);
         const memory = parseFloat(data.memory);
 
-        res[title_slug] ??= {
-            runtime: Infinity,
+        res[titleSlug] ??= {
+            language: langName,
             memory: Infinity,
-            language: lang_name,
-            url_runtime: null,
-            url_memory: null,
-            timestamp_runtime: 0,
+            runtime: Infinity,
             timestamp_memory: 0,
+            timestamp_runtime: 0,
+            url_memory: null,
+            url_runtime: null,
         };
 
-        const obj = res[title_slug];
+        const obj = res[titleSlug];
 
         if (runtime < obj.runtime) {
             obj.runtime = runtime, obj.url_runtime = url, obj.timestamp_runtime = timestamp;

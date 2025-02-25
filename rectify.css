@@ -439,7 +439,6 @@ meta {
 }
 
 meter {
-    -webkit-user-modify: initial;
     appearance: auto;
     block-size: 0;
     display: inline-block;
@@ -650,14 +649,6 @@ sup {
 
 svg {
     display: block;
-}
-
-svg path {
-    fill: currentColor;
-}
-
-svg path:hover {
-    fill: currentColor;
 }
 
 table {

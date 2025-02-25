@@ -12,7 +12,7 @@ function build() {
         if (!submissions[e.titleSlug]) continue;
         const cur = submissions[e.titleSlug];
         const classRuntime = cur.timestamp_runtime < 1730437200 ? ' class="stale"' : '';
-        const classMemory = cur.timestamp_memory < 1706767200 ? ' class="stale"' : '';
+        const classMemory = cur.timestamp_memory < 1739599200 ? ' class="stale"' : '';
 
         const ele = [
             '<tr>',
@@ -64,11 +64,11 @@ function dfs(prev, set = new Set(['JavaScript', 'MySQL', 'Pandas', 'Java', 'Bash
             obj.url_runtime = url, obj.timestamp_runtime = timestamp;
         }
 
-        if (timestamp > 1706767200 && obj.timestamp_memory < 1706767200) {
+        if (timestamp > 1739599200 && obj.timestamp_memory < 1739599200) {
             obj.memory = memory, obj.url_memory = url, obj.timestamp_memory = timestamp;
-        } else if (memory < obj.memory && timestamp > 1706767200 && obj.timestamp_memory > 1706767200) {
+        } else if (memory < obj.memory && timestamp > 1739599200 && obj.timestamp_memory > 1739599200) {
             obj.memory = memory, obj.url_memory = url, obj.timestamp_memory = timestamp;
-        } else if (memory < obj.memory && timestamp < 1706767200 && obj.timestamp_memory < 1706767200) {
+        } else if (memory < obj.memory && timestamp < 1739599200 && obj.timestamp_memory < 1739599200) {
             obj.memory = memory, obj.url_memory = url, obj.timestamp_memory = timestamp;
         } else if (memory === obj.memory && timestamp > obj.timestamp_memory) {
             obj.url_memory = url, obj.timestamp_memory = timestamp;

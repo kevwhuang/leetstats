@@ -1113,8 +1113,8 @@
 <tr>
     <td class="hard">149</td>
     <td><a href="/problems/max-points-on-a-line/">Max Points on a Line</a></td>
-    <td><a href="/submissions/detail/1510252388/">16</a></td>
-    <td class="stale"><a href="/submissions/detail/1510252388/">54.5</a></td>
+    <td><a href="/submissions/detail/1561100735/">4</a></td>
+    <td><a href="/submissions/detail/1561100995/">55.8</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -1394,7 +1394,7 @@
     <td class="hard">185</td>
     <td><a href="/problems/department-top-three-salaries/">Department Top Three Salaries</a></td>
     <td class="stale"><a href="/submissions/detail/1311288292/">764</a></td>
-    <td class="stale"><a href="/submissions/detail/1507879742/">0</a></td>
+    <td class="stale"><a href="/submissions/detail/1507879739/">0</a></td>
     <td>MySQL</td>
 </tr>
 
@@ -2215,6 +2215,14 @@
 </tr>
 
 <tr>
+    <td class="medium">294</td>
+    <td><a href="/problems/flip-game-ii/">Flip Game II</a></td>
+    <td><a href="/submissions/detail/1582696746/">2</a></td>
+    <td><a href="/submissions/detail/1582696746/">53.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="hard">295</td>
     <td><a href="/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
     <td><a href="/submissions/detail/1445675377/">103</a></td>
@@ -2251,6 +2259,14 @@
     <td><a href="/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a></td>
     <td><a href="/submissions/detail/1451191983/">0</a></td>
     <td class="stale"><a href="/submissions/detail/1088242460/">42.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">302</td>
+    <td><a href="/problems/smallest-rectangle-enclosing-black-pixels/">Smallest Rectangle Enclosing Black Pixels</a></td>
+    <td><a href="/submissions/detail/1558893733/">0</a></td>
+    <td><a href="/submissions/detail/1558716836/">56.3</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -2703,6 +2719,14 @@
 </tr>
 
 <tr>
+    <td class="medium">368</td>
+    <td><a href="/problems/largest-divisible-subset/">Largest Divisible Subset</a></td>
+    <td><a href="/submissions/detail/1587875285/">12</a></td>
+    <td><a href="/submissions/detail/1587875285/">54.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">369</td>
     <td><a href="/problems/plus-one-linked-list/">Plus One Linked List</a></td>
     <td class="stale"><a href="/submissions/detail/1092153832/">40</a></td>
@@ -2747,6 +2771,14 @@
     <td><a href="/problems/guess-number-higher-or-lower/">Guess Number Higher or Lower</a></td>
     <td class="stale"><a href="/submissions/detail/1129055126/">37</a></td>
     <td class="stale"><a href="/submissions/detail/1129057372/">41</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">375</td>
+    <td><a href="/problems/guess-number-higher-or-lower-ii/">Guess Number Higher or Lower II</a></td>
+    <td><a href="/submissions/detail/1582053482/">3</a></td>
+    <td><a href="/submissions/detail/1582054058/">53.2</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -3063,6 +3095,14 @@
 </tr>
 
 <tr>
+    <td class="medium">418</td>
+    <td><a href="/problems/sentence-screen-fitting/">Sentence Screen Fitting</a></td>
+    <td><a href="/submissions/detail/1581743490/">7</a></td>
+    <td><a href="/submissions/detail/1581728536/">54.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">419</td>
     <td><a href="/problems/battleships-in-a-board/">Battleships in a Board</a></td>
     <td class="stale"><a href="/submissions/detail/1069095206/">50</a></td>
@@ -3367,6 +3407,22 @@
 </tr>
 
 <tr>
+    <td class="medium">464</td>
+    <td><a href="/problems/can-i-win/">Can I Win</a></td>
+    <td><a href="/submissions/detail/1570013128/">83</a></td>
+    <td><a href="/submissions/detail/1570013128/">59.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">467</td>
+    <td><a href="/problems/unique-substrings-in-wraparound-string/">Unique Substrings in Wraparound String</a></td>
+    <td><a href="/submissions/detail/1571467759/">2</a></td>
+    <td><a href="/submissions/detail/1571467759/">55.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">468</td>
     <td><a href="/problems/validate-ip-address/">Validate IP Address</a></td>
     <td class="stale"><a href="/submissions/detail/1383724658/">38</a></td>
@@ -3609,8 +3665,8 @@
 <tr>
     <td class="medium">503</td>
     <td><a href="/problems/next-greater-element-ii/">Next Greater Element II</a></td>
-    <td class="stale"><a href="/submissions/detail/1109391638/">69</a></td>
-    <td class="stale"><a href="/submissions/detail/1109360391/">46.1</a></td>
+    <td><a href="/submissions/detail/1585204317/">1</a></td>
+    <td><a href="/submissions/detail/1585204508/">59.4</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -4543,6 +4599,14 @@
 </tr>
 
 <tr>
+    <td class="medium">634</td>
+    <td><a href="/problems/find-the-derangement-of-an-array/">Find the Derangement of An Array</a></td>
+    <td><a href="/submissions/detail/1581615811/">35</a></td>
+    <td><a href="/submissions/detail/1581616232/">54.8</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">635</td>
     <td><a href="/problems/design-log-storage-system/">Design Log Storage System</a></td>
     <td class="stale"><a href="/submissions/detail/1383752918/">72</a></td>
@@ -4563,6 +4627,14 @@
     <td><a href="/problems/average-of-levels-in-binary-tree/">Average of Levels in Binary Tree</a></td>
     <td class="stale"><a href="/submissions/detail/1108198911/">59</a></td>
     <td class="stale"><a href="/submissions/detail/1108231231/">46.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">638</td>
+    <td><a href="/problems/shopping-offers/">Shopping Offers</a></td>
+    <td><a href="/submissions/detail/1589203063/">5</a></td>
+    <td><a href="/submissions/detail/1589202683/">54.1</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -5097,8 +5169,8 @@
 <tr>
     <td class="medium">718</td>
     <td><a href="/problems/maximum-length-of-repeated-subarray/">Maximum Length of Repeated Subarray</a></td>
-    <td><a href="/submissions/detail/1489615768/">32</a></td>
-    <td class="stale"><a href="/submissions/detail/1489615768/">48.7</a></td>
+    <td><a href="/submissions/detail/1570037689/">24</a></td>
+    <td><a href="/submissions/detail/1570037689/">54.6</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -5663,6 +5735,14 @@
 </tr>
 
 <tr>
+    <td class="medium">808</td>
+    <td><a href="/problems/soup-servings/">Soup Servings</a></td>
+    <td><a href="/submissions/detail/1570164695/">1</a></td>
+    <td><a href="/submissions/detail/1570164648/">55.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">809</td>
     <td><a href="/problems/expressive-words/">Expressive Words</a></td>
     <td class="stale"><a href="/submissions/detail/1219850298/">47</a></td>
@@ -5683,6 +5763,14 @@
     <td><a href="/problems/largest-triangle-area/">Largest Triangle Area</a></td>
     <td><a href="/submissions/detail/1500537334/">4</a></td>
     <td class="stale"><a href="/submissions/detail/1024342210/">42.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">813</td>
+    <td><a href="/problems/largest-sum-of-averages/">Largest Sum of Averages</a></td>
+    <td><a href="/submissions/detail/1588759213/">7</a></td>
+    <td><a href="/submissions/detail/1588759167/">55.5</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -7143,6 +7231,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1039</td>
+    <td><a href="/problems/minimum-score-triangulation-of-polygon/">Minimum Score Triangulation of Polygon</a></td>
+    <td><a href="/submissions/detail/1560834075/">1</a></td>
+    <td><a href="/submissions/detail/1560834049/">54.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">1040</td>
     <td><a href="/problems/moving-stones-until-consecutive-ii/">Moving Stones Until Consecutive II</a></td>
     <td class="stale"><a href="/submissions/detail/1294109576/">66</a></td>
@@ -7211,6 +7307,14 @@
     <td><a href="/problems/longest-string-chain/">Longest String Chain</a></td>
     <td><a href="/submissions/detail/1486240792/">17</a></td>
     <td class="stale"><a href="/submissions/detail/1486240529/">52.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">1049</td>
+    <td><a href="/problems/last-stone-weight-ii/">Last Stone Weight II</a></td>
+    <td><a href="/submissions/detail/1560886778/">2</a></td>
+    <td><a href="/submissions/detail/1560886670/">53.6</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -7339,6 +7443,14 @@
     <td><a href="/problems/index-pairs-of-a-string/">Index Pairs of a String</a></td>
     <td><a href="/submissions/detail/1495039164/">3</a></td>
     <td class="stale"><a href="/submissions/detail/1031145931/">43.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">1066</td>
+    <td><a href="/problems/campus-bikes-ii/">Campus Bikes II</a></td>
+    <td><a href="/submissions/detail/1560867982/">4</a></td>
+    <td><a href="/submissions/detail/1560854891/">54.4</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -7791,6 +7903,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1130</td>
+    <td><a href="/problems/minimum-cost-tree-from-leaf-values/">Minimum Cost Tree From Leaf Values</a></td>
+    <td><a href="/submissions/detail/1563553317/">0</a></td>
+    <td><a href="/submissions/detail/1563553317/">52.4</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">1131</td>
     <td><a href="/problems/maximum-of-absolute-value-expression/">Maximum of Absolute Value Expression</a></td>
     <td class="stale"><a href="/submissions/detail/1145675196/">56</a></td>
@@ -7859,6 +7979,14 @@
     <td><a href="/problems/largest-1-bordered-square/">Largest 1-Bordered Square</a></td>
     <td><a href="/submissions/detail/1487549147/">63</a></td>
     <td class="stale"><a href="/submissions/detail/1487554855/">52.4</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">1140</td>
+    <td><a href="/problems/stone-game-ii/">Stone Game II</a></td>
+    <td><a href="/submissions/detail/1586303704/">12</a></td>
+    <td><a href="/submissions/detail/1586303704/">55.3</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -8167,6 +8295,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1186</td>
+    <td><a href="/problems/maximum-subarray-sum-with-one-deletion/">Maximum Subarray Sum with One Deletion</a></td>
+    <td><a href="/submissions/detail/1577285593/">3</a></td>
+    <td><a href="/submissions/detail/1577285687/">57.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">1188</td>
     <td><a href="/problems/design-bounded-blocking-queue/">Design Bounded Blocking Queue</a></td>
     <td><a href="/submissions/detail/1500440373/">9</a></td>
@@ -8187,6 +8323,14 @@
     <td><a href="/problems/reverse-substrings-between-each-pair-of-parentheses/">Reverse Substrings Between Each Pair of Parentheses</a></td>
     <td class="stale"><a href="/submissions/detail/1093813939/">46</a></td>
     <td class="stale"><a href="/submissions/detail/1093813819/">42</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">1191</td>
+    <td><a href="/problems/k-concatenation-maximum-sum/">K-Concatenation Maximum Sum</a></td>
+    <td><a href="/submissions/detail/1587698363/">1</a></td>
+    <td><a href="/submissions/detail/1587698363/">60.2</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -8431,6 +8575,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1230</td>
+    <td><a href="/problems/toss-strange-coins/">Toss Strange Coins</a></td>
+    <td><a href="/submissions/detail/1585522886/">43</a></td>
+    <td><a href="/submissions/detail/1585520701/">55.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">1232</td>
     <td><a href="/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
     <td><a href="/submissions/detail/1496239935/">0</a></td>
@@ -8451,6 +8603,14 @@
     <td><a href="/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</a></td>
     <td class="stale"><a href="/submissions/detail/1383727364/">78</a></td>
     <td class="stale"><a href="/submissions/detail/1383727364/">50.8</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">1235</td>
+    <td><a href="/problems/maximum-profit-in-job-scheduling/">Maximum Profit in Job Scheduling</a></td>
+    <td><a href="/submissions/detail/1586551276/">29</a></td>
+    <td><a href="/submissions/detail/1586551276/">67.1</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -8883,6 +9043,14 @@
     <td><a href="/problems/maximum-number-of-occurrences-of-a-substring/">Maximum Number of Occurrences of a Substring</a></td>
     <td class="stale"><a href="/submissions/detail/1233478678/">103</a></td>
     <td class="stale"><a href="/submissions/detail/1233478678/">59.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">1298</td>
+    <td><a href="/problems/maximum-candies-you-can-get-from-boxes/">Maximum Candies You Can Get from Boxes</a></td>
+    <td><a href="/submissions/detail/1560256928/">6</a></td>
+    <td><a href="/submissions/detail/1560256987/">60.4</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -10951,6 +11119,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1621</td>
+    <td><a href="/problems/number-of-sets-of-k-non-overlapping-line-segments/">Number of Sets of K Non-Overlapping Line Segments</a></td>
+    <td><a href="/submissions/detail/1587483744/">3</a></td>
+    <td><a href="/submissions/detail/1587483744/">54.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">1623</td>
     <td><a href="/problems/all-valid-triplets-that-can-represent-a-country/">All Valid Triplets That Can Represent a Country</a></td>
     <td class="stale"><a href="/submissions/detail/1400067363/">1858</a></td>
@@ -10971,6 +11147,14 @@
     <td><a href="/problems/lexicographically-smallest-string-after-applying-operations/">Lexicographically Smallest String After Applying Operations</a></td>
     <td class="stale"><a href="/submissions/detail/1223488199/">253</a></td>
     <td class="stale"><a href="/submissions/detail/1223488199/">63</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">1626</td>
+    <td><a href="/problems/best-team-with-no-conflicts/">Best Team With No Conflicts</a></td>
+    <td><a href="/submissions/detail/1560257510/">43</a></td>
+    <td><a href="/submissions/detail/1560257617/">59.3</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -11327,6 +11511,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1682</td>
+    <td><a href="/problems/longest-palindromic-subsequence-ii/">Longest Palindromic Subsequence II</a></td>
+    <td><a href="/submissions/detail/1565769367/">65</a></td>
+    <td><a href="/submissions/detail/1565771769/">56.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">1683</td>
     <td><a href="/problems/invalid-tweets/">Invalid Tweets</a></td>
     <td class="stale"><a href="/submissions/detail/1342395647/">540</a></td>
@@ -11375,6 +11567,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1690</td>
+    <td><a href="/problems/stone-game-vii/">Stone Game VII</a></td>
+    <td><a href="/submissions/detail/1586321566/">68</a></td>
+    <td><a href="/submissions/detail/1586321566/">56</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">1693</td>
     <td><a href="/problems/daily-leads-and-partners/">Daily Leads and Partners</a></td>
     <td class="stale"><a href="/submissions/detail/1400068818/">498</a></td>
@@ -11395,6 +11595,14 @@
     <td><a href="/problems/maximum-erasure-value/">Maximum Erasure Value</a></td>
     <td class="stale"><a href="/submissions/detail/1234706732/">80</a></td>
     <td class="stale"><a href="/submissions/detail/1234706732/">61.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">1696</td>
+    <td><a href="/problems/jump-game-vi/">Jump Game VI</a></td>
+    <td><a href="/submissions/detail/1585012765/">6</a></td>
+    <td><a href="/submissions/detail/1585012765/">64.7</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -11951,6 +12159,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1786</td>
+    <td><a href="/problems/number-of-restricted-paths-from-first-to-last-node/">Number of Restricted Paths From First to Last Node</a></td>
+    <td><a href="/submissions/detail/1587844293/">225</a></td>
+    <td><a href="/submissions/detail/1587844205/">92.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">1789</td>
     <td><a href="/problems/primary-department-for-each-employee/">Primary Department for Each Employee</a></td>
     <td class="stale"><a href="/submissions/detail/1342399177/">523</a></td>
@@ -12483,6 +12699,14 @@
     <td><a href="/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a></td>
     <td class="stale"><a href="/submissions/detail/1265681851/">109</a></td>
     <td class="stale"><a href="/submissions/detail/1265676578/">60.4</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">1871</td>
+    <td><a href="/problems/jump-game-vii/">Jump Game VII</a></td>
+    <td><a href="/submissions/detail/1585070019/">4</a></td>
+    <td><a href="/submissions/detail/1585069683/">59.6</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -13047,6 +13271,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1959</td>
+    <td><a href="/problems/minimum-total-space-wasted-with-k-resizing-operations/">Minimum Total Space Wasted With K Resizing Operations</a></td>
+    <td><a href="/submissions/detail/1589210961/">82</a></td>
+    <td><a href="/submissions/detail/1589210961/">54.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">1961</td>
     <td><a href="/problems/check-if-string-is-a-prefix-of-array/">Check If String Is a Prefix of Array</a></td>
     <td><a href="/submissions/detail/1500293036/">0</a></td>
@@ -13223,6 +13455,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1986</td>
+    <td><a href="/problems/minimum-number-of-work-sessions-to-finish-the-tasks/">Minimum Number of Work Sessions to Finish the Tasks</a></td>
+    <td><a href="/submissions/detail/1589087033/">0</a></td>
+    <td><a href="/submissions/detail/1589087033/">53.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">1988</td>
     <td><a href="/problems/find-cutoff-score-for-each-school/">Find Cutoff Score for Each School</a></td>
     <td class="stale"><a href="/submissions/detail/1397201695/">514</a></td>
@@ -13287,6 +13527,14 @@
 </tr>
 
 <tr>
+    <td class="medium">1997</td>
+    <td><a href="/problems/first-day-where-you-have-been-in-all-the-rooms/">First Day Where You Have Been in All the Rooms</a></td>
+    <td><a href="/submissions/detail/1587558879/">14</a></td>
+    <td><a href="/submissions/detail/1587558879/">68.4</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">1999</td>
     <td><a href="/problems/smallest-greater-multiple-made-of-two-digits/">Smallest Greater Multiple Made of Two Digits</a></td>
     <td class="stale"><a href="/submissions/detail/1197474250/">58</a></td>
@@ -13311,6 +13559,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2002</td>
+    <td><a href="/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/">Maximum Product of the Length of Two Palindromic Subsequences</a></td>
+    <td><a href="/submissions/detail/1565713064/">35</a></td>
+    <td><a href="/submissions/detail/1565713064/">56.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="hard">2004</td>
     <td><a href="/problems/the-number-of-seniors-and-juniors-to-join-the-company/">The Number of Seniors and Juniors to Join the Company</a></td>
     <td class="stale"><a href="/submissions/detail/1427812543/">458</a></td>
@@ -13331,6 +13587,14 @@
     <td><a href="/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td class="stale"><a href="/submissions/detail/1145773115/">125</a></td>
     <td class="stale"><a href="/submissions/detail/1145773115/">65.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2008</td>
+    <td><a href="/problems/maximum-earnings-from-taxi/">Maximum Earnings From Taxi</a></td>
+    <td><a href="/submissions/detail/1586575304/">116</a></td>
+    <td><a href="/submissions/detail/1586575058/">78.1</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -13499,6 +13763,14 @@
     <td><a href="/problems/stock-price-fluctuation/">Stock Price Fluctuation </a></td>
     <td class="stale"><a href="/submissions/detail/1429830739/">153</a></td>
     <td class="stale"><a href="/submissions/detail/1429826762/">90.4</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2036</td>
+    <td><a href="/problems/maximum-alternating-subarray-sum/">Maximum Alternating Subarray Sum</a></td>
+    <td><a href="/submissions/detail/1581590705/">5</a></td>
+    <td><a href="/submissions/detail/1581590637/">62.3</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -14231,6 +14503,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2152</td>
+    <td><a href="/problems/minimum-number-of-lines-to-cover-points/">Minimum Number of Lines to Cover Points</a></td>
+    <td><a href="/submissions/detail/1561344685/">1</a></td>
+    <td><a href="/submissions/detail/1561345154/">55</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="hard">2153</td>
     <td><a href="/problems/the-number-of-passengers-in-each-bus-ii/">The Number of Passengers in Each Bus II</a></td>
     <td class="stale"><a href="/submissions/detail/1429242040/">655</a></td>
@@ -14419,6 +14699,14 @@
     <td><a href="/problems/construct-string-with-repeat-limit/">Construct String With Repeat Limit</a></td>
     <td class="stale"><a href="/submissions/detail/1231686425/">85</a></td>
     <td class="stale"><a href="/submissions/detail/1231682462/">56.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2184</td>
+    <td><a href="/problems/number-of-ways-to-build-sturdy-brick-wall/">Number of Ways to Build Sturdy Brick Wall</a></td>
+    <td><a href="/submissions/detail/1561225261/">34</a></td>
+    <td><a href="/submissions/detail/1561246798/">57.6</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -14747,7 +15035,7 @@
     <td><a href="/problems/add-two-integers/">Add Two Integers</a></td>
     <td class="stale"><a href="/submissions/detail/1342383469/">0</a></td>
     <td class="stale"><a href="/submissions/detail/1342383417/">40.2</a></td>
-    <td>JavaScript</td>
+    <td>Java</td>
 </tr>
 
 <tr>
@@ -15079,6 +15367,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2291</td>
+    <td><a href="/problems/maximum-profit-from-trading-stocks/">Maximum Profit From Trading Stocks</a></td>
+    <td><a href="/submissions/detail/1581633040/">7</a></td>
+    <td><a href="/submissions/detail/1581630638/">54.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">2292</td>
     <td><a href="/problems/products-with-three-or-more-orders-in-two-consecutive-years/">Products With Three or More Orders in Two Consecutive Years</a></td>
     <td class="stale"><a href="/submissions/detail/1401249865/">434</a></td>
@@ -15107,6 +15403,14 @@
     <td><a href="/problems/replace-elements-in-an-array/">Replace Elements in an Array</a></td>
     <td class="stale"><a href="/submissions/detail/1087742685/">165</a></td>
     <td class="stale"><a href="/submissions/detail/1087741403/">81.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2297</td>
+    <td><a href="/problems/jump-game-viii/">Jump Game VIII</a></td>
+    <td><a href="/submissions/detail/1585457244/">20</a></td>
+    <td><a href="/submissions/detail/1585447608/">70.8</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -15271,6 +15575,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2327</td>
+    <td><a href="/problems/number-of-people-aware-of-a-secret/">Number of People Aware of a Secret</a></td>
+    <td><a href="/submissions/detail/1576477975/">1</a></td>
+    <td><a href="/submissions/detail/1576477975/">53.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">2329</td>
     <td><a href="/problems/product-sales-analysis-v/">Product Sales Analysis V</a></td>
     <td class="stale"><a href="/submissions/detail/1400062066/">677</a></td>
@@ -15415,6 +15727,14 @@
 </tr>
 
 <tr>
+    <td class="hard">2350</td>
+    <td><a href="/problems/shortest-impossible-sequence-of-rolls/">Shortest Impossible Sequence of Rolls</a></td>
+    <td><a href="/submissions/detail/1560954918/">3</a></td>
+    <td><a href="/submissions/detail/1560954918/">64.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">2351</td>
     <td><a href="/problems/first-letter-to-appear-twice/">First Letter to Appear Twice</a></td>
     <td class="stale"><a href="/submissions/detail/1023939387/">41</a></td>
@@ -15523,6 +15843,14 @@
     <td><a href="/problems/reachable-nodes-with-restrictions/">Reachable Nodes With Restrictions</a></td>
     <td class="stale"><a href="/submissions/detail/1249956886/">169</a></td>
     <td class="stale"><a href="/submissions/detail/1249956886/">92.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2369</td>
+    <td><a href="/problems/check-if-there-is-a-valid-partition-for-the-array/">Check if There is a Valid Partition For The Array</a></td>
+    <td><a href="/submissions/detail/1576507449/">2</a></td>
+    <td><a href="/submissions/detail/1576507449/">64.2</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -16103,6 +16431,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2464</td>
+    <td><a href="/problems/minimum-subarrays-in-a-valid-split/">Minimum Subarrays in a Valid Split</a></td>
+    <td><a href="/submissions/detail/1586381094/">237</a></td>
+    <td><a href="/submissions/detail/1586390645/">54.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">2465</td>
     <td><a href="/problems/number-of-distinct-averages/">Number of Distinct Averages</a></td>
     <td class="stale"><a href="/submissions/detail/1139030780/">41</a></td>
@@ -16275,6 +16611,14 @@
     <td><a href="/problems/minimum-score-of-a-path-between-two-cities/">Minimum Score of a Path Between Two Cities</a></td>
     <td class="stale"><a href="/submissions/detail/1251577219/">141</a></td>
     <td class="stale"><a href="/submissions/detail/1251577219/">78.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">2493</td>
+    <td><a href="/problems/divide-nodes-into-the-maximum-number-of-groups/">Divide Nodes Into the Maximum Number of Groups</a></td>
+    <td><a href="/submissions/detail/1558001515/">87</a></td>
+    <td><a href="/submissions/detail/1558001515/">65.5</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -16511,6 +16855,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2533</td>
+    <td><a href="/problems/number-of-good-binary-strings/">Number of Good Binary Strings</a></td>
+    <td><a href="/submissions/detail/1560841166/">17</a></td>
+    <td><a href="/submissions/detail/1560839907/">59.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">2535</td>
     <td><a href="/problems/difference-between-element-sum-and-digit-sum-of-an-array/">Difference Between Element Sum and Digit Sum of an Array</a></td>
     <td class="stale"><a href="/submissions/detail/1129095981/">45</a></td>
@@ -16743,6 +17095,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2572</td>
+    <td><a href="/problems/count-the-number-of-square-free-subsets/">Count the Number of Square-Free Subsets</a></td>
+    <td><a href="/submissions/detail/1589055315/">14</a></td>
+    <td><a href="/submissions/detail/1589055286/">56.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">2574</td>
     <td><a href="/problems/left-and-right-sum-differences/">Left and Right Sum Differences</a></td>
     <td class="stale"><a href="/submissions/detail/1385014736/">60</a></td>
@@ -16967,6 +17327,14 @@
 </tr>
 
 <tr>
+    <td class="hard">2608</td>
+    <td><a href="/problems/shortest-cycle-in-a-graph/">Shortest Cycle in a Graph</a></td>
+    <td><a href="/submissions/detail/1556905047/">126</a></td>
+    <td><a href="/submissions/detail/1556906597/">63.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">2609</td>
     <td><a href="/problems/find-the-longest-balanced-substring-of-a-binary-string/">Find the Longest Balanced Substring of a Binary String</a></td>
     <td class="stale"><a href="/submissions/detail/1385023456/">69</a></td>
@@ -17171,6 +17539,14 @@
     <td><a href="/problems/promise-time-limit/">Promise Time Limit</a></td>
     <td class="stale"><a href="/submissions/detail/1383741113/">46</a></td>
     <td class="stale"><a href="/submissions/detail/1014399548/">41.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2638</td>
+    <td><a href="/problems/count-the-number-of-k-free-subsets/">Count the Number of K-Free Subsets</a></td>
+    <td><a href="/submissions/detail/1581769333/">4</a></td>
+    <td><a href="/submissions/detail/1581763084/">58.2</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -17663,6 +18039,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2707</td>
+    <td><a href="/problems/extra-characters-in-a-string/">Extra Characters in a String</a></td>
+    <td><a href="/submissions/detail/1561016655/">6</a></td>
+    <td><a href="/submissions/detail/1561016655/">59.4</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">2708</td>
     <td><a href="/problems/maximum-strength-of-a-group/">Maximum Strength of a Group</a></td>
     <td class="stale"><a href="/submissions/detail/1388720803/">76</a></td>
@@ -17879,6 +18263,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2741</td>
+    <td><a href="/problems/special-permutations/">Special Permutations</a></td>
+    <td><a href="/submissions/detail/1576782563/">195</a></td>
+    <td><a href="/submissions/detail/1576782563/">70.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">2743</td>
     <td><a href="/problems/count-substrings-without-repeating-character/">Count Substrings Without Repeating Character</a></td>
     <td class="stale"><a href="/submissions/detail/1391607190/">80</a></td>
@@ -17899,6 +18291,14 @@
     <td><a href="/problems/construct-the-longest-new-string/">Construct the Longest New String</a></td>
     <td class="stale"><a href="/submissions/detail/1142254032/">72</a></td>
     <td class="stale"><a href="/submissions/detail/1142253445/">44.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2746</td>
+    <td><a href="/problems/decremental-string-concatenation/">Decremental String Concatenation</a></td>
+    <td><a href="/submissions/detail/1576647807/">82</a></td>
+    <td><a href="/submissions/detail/1576647598/">62.7</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -18039,6 +18439,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2767</td>
+    <td><a href="/problems/partition-string-into-minimum-beautiful-substrings/">Partition String Into Minimum Beautiful Substrings</a></td>
+    <td><a href="/submissions/detail/1561158567/">0</a></td>
+    <td><a href="/submissions/detail/1561158525/">54.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">2768</td>
     <td><a href="/problems/number-of-black-blocks/">Number of Black Blocks</a></td>
     <td class="stale"><a href="/submissions/detail/1202292945/">280</a></td>
@@ -18051,6 +18459,22 @@
     <td><a href="/problems/find-the-maximum-achievable-number/">Find the Maximum Achievable Number</a></td>
     <td class="stale"><a href="/submissions/detail/1010583653/">73</a></td>
     <td class="stale"><a href="/submissions/detail/1010583653/">45.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2770</td>
+    <td><a href="/problems/maximum-number-of-jumps-to-reach-the-last-index/">Maximum Number of Jumps to Reach the Last Index</a></td>
+    <td><a href="/submissions/detail/1576339288/">11</a></td>
+    <td><a href="/submissions/detail/1576339332/">57</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2771</td>
+    <td><a href="/problems/longest-non-decreasing-subarray-from-two-arrays/">Longest Non-decreasing Subarray From Two Arrays</a></td>
+    <td><a href="/submissions/detail/1576356540/">3</a></td>
+    <td><a href="/submissions/detail/1576356540/">69.5</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -18415,6 +18839,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2826</td>
+    <td><a href="/problems/sorting-three-groups/">Sorting Three Groups</a></td>
+    <td><a href="/submissions/detail/1570025721/">3</a></td>
+    <td><a href="/submissions/detail/1570025721/">62.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">2828</td>
     <td><a href="/problems/check-if-a-string-is-an-acronym-of-words/">Check if a String Is an Acronym of Words</a></td>
     <td class="stale"><a href="/submissions/detail/1029395301/">53</a></td>
@@ -18427,6 +18859,14 @@
     <td><a href="/problems/determine-the-minimum-sum-of-a-k-avoiding-array/">Determine the Minimum Sum of a k-avoiding Array</a></td>
     <td class="stale"><a href="/submissions/detail/1200428610/">77</a></td>
     <td class="stale"><a href="/submissions/detail/1200428294/">53.4</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2830</td>
+    <td><a href="/problems/maximize-the-profit-as-the-salesman/">Maximize the Profit as the Salesman</a></td>
+    <td><a href="/submissions/detail/1586566506/">100</a></td>
+    <td><a href="/submissions/detail/1586564914/">76.9</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -18687,6 +19127,14 @@
 </tr>
 
 <tr>
+    <td class="hard">2872</td>
+    <td><a href="/problems/maximum-number-of-k-divisible-components/">Maximum Number of K-Divisible Components</a></td>
+    <td><a href="/submissions/detail/1560974171/">66</a></td>
+    <td><a href="/submissions/detail/1560974171/">86.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">2873</td>
     <td><a href="/problems/maximum-value-of-an-ordered-triplet-i/">Maximum Value of an Ordered Triplet I</a></td>
     <td class="stale"><a href="/submissions/detail/1065973606/">43</a></td>
@@ -18863,6 +19311,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2896</td>
+    <td><a href="/problems/apply-operations-to-make-two-strings-equal/">Apply Operations to Make Two Strings Equal</a></td>
+    <td><a href="/submissions/detail/1576414452/">3</a></td>
+    <td><a href="/submissions/detail/1576414452/">56.1</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">2898</td>
     <td><a href="/problems/maximum-linear-stock-score/">Maximum Linear Stock Score</a></td>
     <td class="stale"><a href="/submissions/detail/1344813376/">112</a></td>
@@ -18883,6 +19339,14 @@
     <td><a href="/problems/longest-unequal-adjacent-groups-subsequence-i/">Longest Unequal Adjacent Groups Subsequence I</a></td>
     <td class="stale"><a href="/submissions/detail/1180754796/">44</a></td>
     <td class="stale"><a href="/submissions/detail/1219836308/">51.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2901</td>
+    <td><a href="/problems/longest-unequal-adjacent-groups-subsequence-ii/">Longest Unequal Adjacent Groups Subsequence II</a></td>
+    <td><a href="/submissions/detail/1588944416/">43</a></td>
+    <td><a href="/submissions/detail/1588944416/">57.5</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -18991,6 +19455,14 @@
 </tr>
 
 <tr>
+    <td class="medium">2919</td>
+    <td><a href="/problems/minimum-increment-operations-to-make-array-beautiful/">Minimum Increment Operations to Make Array Beautiful</a></td>
+    <td><a href="/submissions/detail/1576575611/">3</a></td>
+    <td><a href="/submissions/detail/1576575611/">68.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="hard">2921</td>
     <td><a href="/problems/maximum-profitable-triplets-with-increasing-prices-ii/">Maximum Profitable Triplets With Increasing Prices II</a></td>
     <td><a href="/submissions/detail/1541421461/">27</a></td>
@@ -19043,6 +19515,14 @@
     <td><a href="/problems/distribute-candies-among-children-ii/">Distribute Candies Among Children II</a></td>
     <td class="stale"><a href="/submissions/detail/1266384654/">68</a></td>
     <td class="stale"><a href="/submissions/detail/1266384654/">51.1</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2930</td>
+    <td><a href="/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/">Number of Strings Which Can Be Rearranged to Contain Substring</a></td>
+    <td><a href="/submissions/detail/1576564987/">65</a></td>
+    <td><a href="/submissions/detail/1576564987/">56.9</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -19115,6 +19595,14 @@
     <td><a href="/problems/maximize-area-of-square-hole-in-grid/">Maximize Area of Square Hole in Grid</a></td>
     <td class="stale"><a href="/submissions/detail/1312241030/">59</a></td>
     <td class="stale"><a href="/submissions/detail/1312241030/">50.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">2944</td>
+    <td><a href="/problems/minimum-number-of-coins-for-fruits/">Minimum Number of Coins for Fruits</a></td>
+    <td><a href="/submissions/detail/1586649752/">2</a></td>
+    <td><a href="/submissions/detail/1586649752/">55.5</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -20287,6 +20775,22 @@
 </tr>
 
 <tr>
+    <td class="medium">3129</td>
+    <td><a href="/problems/find-all-possible-stable-binary-arrays-i/">Find All Possible Stable Binary Arrays I</a></td>
+    <td><a href="/submissions/detail/1563609601/">2</a></td>
+    <td><a href="/submissions/detail/1563615095/">54.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">3130</td>
+    <td><a href="/problems/find-all-possible-stable-binary-arrays-ii/">Find All Possible Stable Binary Arrays II</a></td>
+    <td><a href="/submissions/detail/1563611101/">54</a></td>
+    <td><a href="/submissions/detail/1563611101/">63.8</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">3131</td>
     <td><a href="/problems/find-the-integer-added-to-array-i/">Find the Integer Added to Array I</a></td>
     <td class="stale"><a href="/submissions/detail/1244499460/">52</a></td>
@@ -20307,6 +20811,14 @@
     <td><a href="/problems/minimum-array-end/">Minimum Array End</a></td>
     <td><a href="/submissions/detail/1467438238/">1</a></td>
     <td class="stale"><a href="/submissions/detail/1255746916/">50.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3135</td>
+    <td><a href="/problems/equalize-strings-by-adding-or-removing-characters-at-ends/">Equalize Strings by Adding or Removing Characters at Ends</a></td>
+    <td><a href="/submissions/detail/1570042456/">144</a></td>
+    <td><a href="/submissions/detail/1570042690/">55.9</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -20355,6 +20867,14 @@
     <td><a href="/problems/maximum-points-inside-the-square/">Maximum Points Inside the Square</a></td>
     <td class="stale"><a href="/submissions/detail/1255914600/">121</a></td>
     <td class="stale"><a href="/submissions/detail/1381604512/">73.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3144</td>
+    <td><a href="/problems/minimum-substring-partition-of-equal-character-frequency/">Minimum Substring Partition of Equal Character Frequency</a></td>
+    <td><a href="/submissions/detail/1571516955/">61</a></td>
+    <td><a href="/submissions/detail/1571516955/">55.4</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -20559,6 +21079,22 @@
 </tr>
 
 <tr>
+    <td class="medium">3176</td>
+    <td><a href="/problems/find-the-maximum-length-of-a-good-subsequence-i/">Find the Maximum Length of a Good Subsequence I</a></td>
+    <td><a href="/submissions/detail/1570629034/">1</a></td>
+    <td><a href="/submissions/detail/1570629034/">55.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">3177</td>
+    <td><a href="/problems/find-the-maximum-length-of-a-good-subsequence-ii/">Find the Maximum Length of a Good Subsequence II</a></td>
+    <td><a href="/submissions/detail/1570628747/">22</a></td>
+    <td><a href="/submissions/detail/1570628747/">65.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">3178</td>
     <td><a href="/problems/find-the-child-who-has-the-ball-after-k-seconds/">Find the Child Who Has the Ball After K Seconds</a></td>
     <td class="stale"><a href="/submissions/detail/1287564000/">54</a></td>
@@ -20571,6 +21107,22 @@
     <td><a href="/problems/find-the-n-th-value-after-k-seconds/">Find the N-th Value After K Seconds</a></td>
     <td class="stale"><a href="/submissions/detail/1381600410/">243</a></td>
     <td class="stale"><a href="/submissions/detail/1381600410/">50.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3180</td>
+    <td><a href="/problems/maximum-total-reward-using-operations-i/">Maximum Total Reward Using Operations I</a></td>
+    <td><a href="/submissions/detail/1563529579/">65</a></td>
+    <td><a href="/submissions/detail/1563529579/">55.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">3181</td>
+    <td><a href="/problems/maximum-total-reward-using-operations-ii/">Maximum Total Reward Using Operations II</a></td>
+    <td><a href="/submissions/detail/1563529827/">16</a></td>
+    <td><a href="/submissions/detail/1563529827/">66.9</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -20603,6 +21155,14 @@
     <td><a href="/problems/count-pairs-that-form-a-complete-day-ii/">Count Pairs That Form a Complete Day II</a></td>
     <td class="stale"><a href="/submissions/detail/1292013971/">97</a></td>
     <td class="stale"><a href="/submissions/detail/1292013971/">73.4</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3186</td>
+    <td><a href="/problems/maximum-total-damage-with-spell-casting/">Maximum Total Damage With Spell Casting</a></td>
+    <td><a href="/submissions/detail/1587530088/">195</a></td>
+    <td><a href="/submissions/detail/1587530135/">92.8</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -20659,6 +21219,14 @@
     <td><a href="/problems/find-the-minimum-area-to-cover-all-ones-i/">Find the Minimum Area to Cover All Ones I</a></td>
     <td class="stale"><a href="/submissions/detail/1299272360/">116</a></td>
     <td class="stale"><a href="/submissions/detail/1299272360/">84.1</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3196</td>
+    <td><a href="/problems/maximize-total-cost-of-alternating-subarrays/">Maximize Total Cost of Alternating Subarrays</a></td>
+    <td><a href="/submissions/detail/1586474700/">4</a></td>
+    <td><a href="/submissions/detail/1586474700/">65.6</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -21207,6 +21775,22 @@
 </tr>
 
 <tr>
+    <td class="medium">3291</td>
+    <td><a href="/problems/minimum-number-of-valid-strings-to-form-target-i/">Minimum Number of Valid Strings to Form Target I</a></td>
+    <td><a href="/submissions/detail/1570754217/">100</a></td>
+    <td><a href="/submissions/detail/1570754217/">64</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">3292</td>
+    <td><a href="/problems/minimum-number-of-valid-strings-to-form-target-ii/">Minimum Number of Valid Strings to Form Target II</a></td>
+    <td><a href="/submissions/detail/1570754279/">338</a></td>
+    <td><a href="/submissions/detail/1570754322/">107.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="medium">3293</td>
     <td><a href="/problems/calculate-product-final-price/">Calculate Product Final Price</a></td>
     <td class="stale"><a href="/submissions/detail/1395858333/">448</a></td>
@@ -21351,6 +21935,14 @@
 </tr>
 
 <tr>
+    <td class="medium">3316</td>
+    <td><a href="/problems/find-maximum-removals-from-source-string/">Find Maximum Removals From Source String</a></td>
+    <td><a href="/submissions/detail/1586615168/">37</a></td>
+    <td><a href="/submissions/detail/1586615168/">55.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="easy">3318</td>
     <td><a href="/problems/find-x-sum-of-all-k-long-subarrays-i/">Find X-Sum of All K-Long Subarrays I</a></td>
     <td><a href="/submissions/detail/1475304996/">11</a></td>
@@ -21468,6 +22060,14 @@
     <td class="stale"><a href="/submissions/detail/1437677815/">289</a></td>
     <td class="stale"><a href="/submissions/detail/1502624387/">0</a></td>
     <td>MySQL</td>
+</tr>
+
+<tr>
+    <td class="medium">3339</td>
+    <td><a href="/problems/find-the-number-of-k-even-arrays/">Find the Number of K-Even Arrays</a></td>
+    <td><a href="/submissions/detail/1586354180/">228</a></td>
+    <td><a href="/submissions/detail/1586354180/">73.6</a></td>
+    <td>JavaScript</td>
 </tr>
 
 <tr>
@@ -21623,6 +22223,14 @@
 </tr>
 
 <tr>
+    <td class="medium">3366</td>
+    <td><a href="/problems/minimum-array-sum/">Minimum Array Sum</a></td>
+    <td><a href="/submissions/detail/1562500053/">32</a></td>
+    <td><a href="/submissions/detail/1562500080/">55.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
     <td class="hard">3368</td>
     <td><a href="/problems/first-letter-capitalization/">First Letter Capitalization</a></td>
     <td><a href="/submissions/detail/1464063218/">284</a></td>
@@ -21739,6 +22347,14 @@
     <td><a href="/problems/maximize-amount-after-two-days-of-conversions/">Maximize Amount After Two Days of Conversions</a></td>
     <td><a href="/submissions/detail/1480959655/">13</a></td>
     <td class="stale"><a href="/submissions/detail/1480959655/">55.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3388</td>
+    <td><a href="/problems/count-beautiful-splits-in-an-array/">Count Beautiful Splits in an Array</a></td>
+    <td><a href="/submissions/detail/1588870944/">173</a></td>
+    <td><a href="/submissions/detail/1588870916/">106.8</a></td>
     <td>JavaScript</td>
 </tr>
 
@@ -22179,5 +22795,205 @@
     <td><a href="/problems/find-products-with-valid-serial-numbers/">Find Products with Valid Serial Numbers</a></td>
     <td><a href="/submissions/detail/1554375481/">471</a></td>
     <td><a href="/submissions/detail/1554375481/">0</a></td>
+    <td>MySQL</td>
+</tr>
+
+<tr>
+    <td class="medium">3466</td>
+    <td><a href="/problems/maximum-coin-collection/">Maximum Coin Collection </a></td>
+    <td><a href="/submissions/detail/1558912300/">5</a></td>
+    <td><a href="/submissions/detail/1558915824/">72.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="easy">3467</td>
+    <td><a href="/problems/transform-array-by-parity/">Transform Array by Parity</a></td>
+    <td><a href="/submissions/detail/1560259440/">1</a></td>
+    <td><a href="/submissions/detail/1560259440/">57.1</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3468</td>
+    <td><a href="/problems/find-the-number-of-copy-arrays/">Find the Number of Copy Arrays</a></td>
+    <td><a href="/submissions/detail/1560258619/">1</a></td>
+    <td><a href="/submissions/detail/1560258747/">88.8</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3469</td>
+    <td><a href="/problems/find-minimum-cost-to-remove-array-elements/">Find Minimum Cost to Remove Array Elements</a></td>
+    <td><a href="/submissions/detail/1587953497/">28</a></td>
+    <td><a href="/submissions/detail/1587953615/">60.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="easy">3471</td>
+    <td><a href="/problems/find-the-largest-almost-missing-integer/">Find the Largest Almost Missing Integer</a></td>
+    <td><a href="/submissions/detail/1560257898/">1</a></td>
+    <td><a href="/submissions/detail/1560257938/">55</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3472</td>
+    <td><a href="/problems/longest-palindromic-subsequence-after-at-most-k-operations/">Longest Palindromic Subsequence After at Most K Operations</a></td>
+    <td><a href="/submissions/detail/1565742973/">523</a></td>
+    <td><a href="/submissions/detail/1565743173/">80.3</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3473</td>
+    <td><a href="/problems/sum-of-k-subarrays-with-length-at-least-m/">Sum of K Subarrays With Length at Least M</a></td>
+    <td><a href="/submissions/detail/1588837859/">112</a></td>
+    <td><a href="/submissions/detail/1588837859/">56.1</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3475</td>
+    <td><a href="/problems/dna-pattern-recognition/">DNA Pattern Recognition </a></td>
+    <td><a href="/submissions/detail/1561020226/">507</a></td>
+    <td><a href="/submissions/detail/1561020226/">0</a></td>
+    <td>MySQL</td>
+</tr>
+
+<tr>
+    <td class="medium">3476</td>
+    <td><a href="/problems/maximize-profit-from-task-assignment/">Maximize Profit from Task Assignment</a></td>
+    <td><a href="/submissions/detail/1565459057/">114</a></td>
+    <td><a href="/submissions/detail/1565458961/">92</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="easy">3477</td>
+    <td><a href="/problems/fruits-into-baskets-ii/">Fruits Into Baskets II</a></td>
+    <td><a href="/submissions/detail/1569870371/">1</a></td>
+    <td><a href="/submissions/detail/1569870371/">56.2</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3478</td>
+    <td><a href="/problems/choose-k-elements-with-maximum-sum/">Choose K Elements With Maximum Sum</a></td>
+    <td><a href="/submissions/detail/1569931509/">219</a></td>
+    <td><a href="/submissions/detail/1569931509/">91.8</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3479</td>
+    <td><a href="/problems/fruits-into-baskets-iii/">Fruits Into Baskets III</a></td>
+    <td><a href="/submissions/detail/1569887316/">44</a></td>
+    <td><a href="/submissions/detail/1569887373/">78.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3481</td>
+    <td><a href="/problems/apply-substitutions/">Apply Substitutions</a></td>
+    <td><a href="/submissions/detail/1571827705/">2</a></td>
+    <td><a href="/submissions/detail/1571827887/">57.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="hard">3482</td>
+    <td><a href="/problems/analyze-organization-hierarchy/">Analyze Organization Hierarchy</a></td>
+    <td><a href="/submissions/detail/1569758913/">326</a></td>
+    <td><a href="/submissions/detail/1569758913/">0</a></td>
+    <td>MySQL</td>
+</tr>
+
+<tr>
+    <td class="easy">3483</td>
+    <td><a href="/problems/unique-3-digit-even-numbers/">Unique 3-Digit Even Numbers</a></td>
+    <td><a href="/submissions/detail/1576187162/">3</a></td>
+    <td><a href="/submissions/detail/1576187100/">55.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3484</td>
+    <td><a href="/problems/design-spreadsheet/">Design Spreadsheet</a></td>
+    <td><a href="/submissions/detail/1576209805/">66</a></td>
+    <td><a href="/submissions/detail/1576295439/">74.7</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="easy">3487</td>
+    <td><a href="/problems/maximum-unique-subarray-sum-after-deletion/">Maximum Unique Subarray Sum After Deletion</a></td>
+    <td><a href="/submissions/detail/1576194902/">0</a></td>
+    <td><a href="/submissions/detail/1576194972/">54.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3488</td>
+    <td><a href="/problems/closest-equal-element-queries/">Closest Equal Element Queries</a></td>
+    <td><a href="/submissions/detail/1577301217/">69</a></td>
+    <td><a href="/submissions/detail/1577301217/">89.8</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3489</td>
+    <td><a href="/problems/zero-array-transformation-iv/">Zero Array Transformation IV</a></td>
+    <td><a href="/submissions/detail/1576286975/">0</a></td>
+    <td><a href="/submissions/detail/1576286951/">57.9</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="easy">3491</td>
+    <td><a href="/problems/phone-number-prefix/">Phone Number Prefix</a></td>
+    <td><a href="/submissions/detail/1578338405/">0</a></td>
+    <td><a href="/submissions/detail/1578338405/">55.8</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="easy">3492</td>
+    <td><a href="/problems/maximum-containers-on-a-ship/">Maximum Containers on a Ship</a></td>
+    <td><a href="/submissions/detail/1583678305/">0</a></td>
+    <td><a href="/submissions/detail/1583678305/">54</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3493</td>
+    <td><a href="/problems/properties-graph/">Properties Graph</a></td>
+    <td><a href="/submissions/detail/1583709897/">76</a></td>
+    <td><a href="/submissions/detail/1583709897/">60.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3494</td>
+    <td><a href="/problems/find-the-minimum-amount-of-time-to-brew-potions/">Find the Minimum Amount of Time to Brew Potions</a></td>
+    <td><a href="/submissions/detail/1583764199/">124</a></td>
+    <td><a href="/submissions/detail/1583764394/">56.5</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3496</td>
+    <td><a href="/problems/maximize-score-after-pair-deletions/">Maximize Score After Pair Deletions</a></td>
+    <td><a href="/submissions/detail/1584935661/">2</a></td>
+    <td><a href="/submissions/detail/1584937605/">73.6</a></td>
+    <td>JavaScript</td>
+</tr>
+
+<tr>
+    <td class="medium">3497</td>
+    <td><a href="/problems/analyze-subscription-conversion/">Analyze Subscription Conversion </a></td>
+    <td><a href="/submissions/detail/1588691476/">289</a></td>
+    <td><a href="/submissions/detail/1588692882/">0</a></td>
     <td>MySQL</td>
 </tr>
